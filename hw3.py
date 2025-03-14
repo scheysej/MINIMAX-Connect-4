@@ -114,3 +114,6 @@ while not gameOver:
         gameOver = True
     else:
         turn += 1  # Next turn
+        if turn == ROWS*COLUMNS:
+            gameOver = True
+            print("GAME DRAW")
