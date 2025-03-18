@@ -1,4 +1,18 @@
-# Games: AI, AI, AI, ME, ME (i found a cheat HEHEHE), ME, ME, Me, me, me
+# This code allows you to play against an AI minimax agent that uses alpha beta pruning. The heuristic is not as intense in this version
+# of the code, to demonstrate that heuristics and tweaking of other factors like max_depth, are important.
+# Created by Ethan Scheys on 3/18/2025
+
+# Game Stats
+# 1)  AI 
+# 2)  AI
+# 3)  AI
+# 4)  Me
+# 5)  Me (I found a cheat hehehehe)
+# 6)  Me
+# 7)  Me
+# 8)  Me
+# 9)  Me
+# 10) Me
 
 import numpy as np
 import threading
